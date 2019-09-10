@@ -1,17 +1,16 @@
-This is the code base for the React app for my [Full Stack React & Firebase series](https://www.youtube.com/watch?v=RkBfu-W7tt0&list=PLMhAeHCz8S38ryyeMiBPPUnFAiWnoPvWP)
-
-## 1: API Base URL
+Meu linkedin : https://www.linkedin.com/in/matheus-politano-08b762123/
+## 1: API BASE URL
 
 Add https://europe-west1-socialape-d081e.cloudfunctions.net/api as the 'proxy' value in package.json
 
-## 2: Install packages
+## 2: Instalação de Pacotes
 
 run `npm instll`
 
-## 3: Run project
+## 3: Execução do Projeto
 
 run `npm start`
 
-## 4: Open it
+## 4: Url
 
 go to [http://localhost:3000](http://localhost:3000)
